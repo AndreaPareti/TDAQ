@@ -1,0 +1,12 @@
+num_piani				15.0
+dist_interazione(mm)	30.0
+dist_piani(mm)			20.0
+dim_tracker(mm)			1000.0
+dim_pixel(micron)		50.0
+num_eventi				10.0
+media_sig_perevento		10.0
+media_bkg_perpiano		5.0
+tempo_tra_bunch(micro)	15.0
+Background				1.	
+max_offset				50.0
+threshold				14	
